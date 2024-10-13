@@ -107,3 +107,10 @@ h1{
     font-size: 14px;
     display: none;
 }
+.error p{
+    font-size: 1.7rem;
+    font-weight: 800;
+    color: red;
+    font-style: italic;
+    text-decoration: underline;
+}
